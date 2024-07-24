@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Simon</h1>
-<h3 align="center">Always interested in learning new technologies</h3>
+<h3 align="center">Fullstack developer with special interest in React</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
